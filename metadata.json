@@ -1,0 +1,6 @@
+{
+  "name": "Joy Coaching Elementor Template & JSON Exporter",
+  "description": "Universal HTML to Elementor v3 Container Flexbox Kit (.ZIP) converter with real-time live preview of what displays in Elementor, multi-page HTML bundling, screenshot color extraction, and WordPress import verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
